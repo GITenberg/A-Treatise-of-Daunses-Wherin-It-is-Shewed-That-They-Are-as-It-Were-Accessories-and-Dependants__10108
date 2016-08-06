@@ -1,0 +1,34 @@
+_repo: A-Treatise-of-Daunses-Wherin-It-is-Shewed-That-They-Are-as-It-Were-Accessories-and-Dependants__10108
+_version: 0.0.1
+alternative_title: "Treatise of Dances, Wherein It is Showed, That They Are as It\
+  \ Were Accessories and Dependants (Or Things Annexed) to Whoredom\r\nWhere Also\
+  \ by the Way is Touched and Proved, That Plays Are Joined and Knit Together in a\
+  \ Rank or Row with Them"
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10108'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dance -- Moral and ethical aspects -- Early works to 1800'
+- !lcc 'PN'
+- !lcsh 'Theater -- Moral and ethical aspects -- Early works to 1800'
+- GITenberg
+title: "A Treatise of Daunses, Wherin It is Shewed, That They Are as It Were Accessories\
+  \ and Dependants (Or Thynges Annexed) to Whoredome\r\nWhere Also by the Way is Touched\
+  \ and Proued, That Playes Are Ioyned and Knit Togeather in a Rancke or Rowe with\
+  \ Them (1581)"
+url: http://www.gutenberg.org/ebooks/10108
