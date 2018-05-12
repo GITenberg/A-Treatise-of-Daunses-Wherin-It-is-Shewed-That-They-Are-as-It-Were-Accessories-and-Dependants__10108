@@ -1,9 +1,12 @@
 _repo: A-Treatise-of-Daunses-Wherin-It-is-Shewed-That-They-Are-as-It-Were-Accessories-and-Dependants__10108
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: "Treatise of Dances, Wherein It is Showed, That They Are as It\
   \ Were Accessories and Dependants (Or Things Annexed) to Whoredom\r\nWhere Also\
   \ by the Way is Touched and Proved, That Plays Are Joined and Knit Together in a\
   \ Rank or Row with Them"
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Anonymous
@@ -14,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10108#A-Treatise-of-Daunses-Wherin-It-is-Shewed-That-They-Are-as-It-Were-Accessories-and-Dependants_
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
